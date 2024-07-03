@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    
+    
+    
+    
+
+    header{
+        background-color:#fdfdfd;
+        justify-content: center;
+        
+        }
+        .cabeçalho-imagem{
+             width: 40%;
+        }
+
+        .cabeçalho-lista-item{
+            display: inline-block;
+            margin: 0 16px;
+            font-size: 36px;
+        }
+        .escola-imagem{
+            width: 25%;
+        
+        }
+        .escola{
+        background-image: linear-gradient(#383D58,#4EBFE9);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+        
+        .escola-texto-um{
+            padding: 24px 0;
+            font-size: 50px;  
+           }
