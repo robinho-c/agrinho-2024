@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    
+    
+    .logo-cabeçalho {
+        width: 8%;
+    }
+
+    
+
+
+    
+
+    header{
+        background-color:#fdfdfd;
+        justify-content: center;
+        
+        }
+        .cabeçalho-imagem{
+             width: 20%;
+        }
+
+
+
+        .cabeçalho-imagemm{
+            width: 70%;
+       }
+
+
+
+   
