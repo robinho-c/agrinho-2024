@@ -6,6 +6,7 @@
     
     .logo-cabeçalho {
         width: 8%;
+    
     }
 
     
@@ -14,12 +15,14 @@
     
 
     header{
-        background-color:#fdfdfd;
+        background-color:#747070;
         justify-content: center;
         
         }
         .cabeçalho-imagem{
              width: 20%;
+    align-items: center;
+j
         }
 
 
